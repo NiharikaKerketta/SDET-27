@@ -1,0 +1,9 @@
+{
+  "empName" : "Niharika",
+  "empPhoneNo" : "ywg012",
+  "spouse" : {
+    "name" : "xyz",
+    "phoneNo" : 8888,
+    "id" : "abc"
+  }
+}
